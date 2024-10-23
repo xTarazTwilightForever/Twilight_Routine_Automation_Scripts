@@ -30,7 +30,7 @@ tags:
 
 lesson_template = """---
 tags:
-  - Course_Completed_Task_Code_Basics_HTML
+  -
 ---
 ### Резюме
 
