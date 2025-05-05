@@ -1,28 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
+﻿using System.Data;
+using System.Data.SQLite;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace Twilight_Gatekeeper
 {
-    /// <summary>
-    /// Interaction logic for StatisticsPage.xaml
-    /// </summary>
     public partial class StatisticsPage : Page
     {
         public StatisticsPage()
         {
             InitializeComponent();
+            LoadStatistics();
+        }
+
+        private void LoadStatistics()
+        {
+            using (var connection = new SQLiteConnection("Data Source=blocked_urls.db"))
+            {
+                connection.Open();
+                string query = "SELECT Url, DateTime, Duration FROM Statistics";
+                SQLiteDataAdapter adapter = new SQLiteDataAdapter(query, connection);
+                DataTable dataTable = new DataTable();
+                adapter.Fill(dataTable);
+
+                StatisticsTable.ItemsSource = dataTable.DefaultView;
+            }
         }
     }
 }
