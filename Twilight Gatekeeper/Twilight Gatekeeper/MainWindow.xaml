@@ -1,12 +1,20 @@
 ﻿<Window x:Class="Twilight_Gatekeeper.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Twilight_Gatekeeper"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Twilight Gatekeeper" Height="400" Width="600">
     <Grid>
-        
+        <!-- Поле ввода URL -->
+        <TextBox Name="UrlInput" Width="400" Height="25" Margin="10,10,10,0" VerticalAlignment="Top" />
+
+        <!-- Кнопка добавления -->
+        <Button Name="AddUrlButton" Content="Add URL" Width="100" Height="25" 
+                Margin="10,40,10,0" VerticalAlignment="Top" Click="AddUrlButton_Click" />
+
+        <!-- Список заблокированных URL -->
+        <ListBox Name="BlockedUrlsList" Margin="10,80,10,10" />
+
+        <!-- Кнопка перехода к статистике -->
+        <Button Name="OpenStatisticsButton" Content="View Statistics" Width="150" Height="25" 
+                Margin="420,40,10,0" VerticalAlignment="Top" Click="OpenStatisticsButton_Click" />
     </Grid>
 </Window>

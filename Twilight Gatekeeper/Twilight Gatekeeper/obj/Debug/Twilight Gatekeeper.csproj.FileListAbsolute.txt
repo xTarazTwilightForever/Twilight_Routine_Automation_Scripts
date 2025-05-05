@@ -1,0 +1,27 @@
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\Twilight Gatekeeper.csproj.AssemblyReference.cache
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\MainWindow.baml
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\SettingsPage.baml
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\StatisticsPage.baml
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\MainWindow.g.cs
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\SettingsPage.g.cs
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\StatisticsPage.g.cs
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\App.g.cs
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\Twilight Gatekeeper_MarkupCompile.cache
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\Twilight Gatekeeper.g.resources
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\Twilight_Gatekeeper.Properties.Resources.resources
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\Twilight Gatekeeper.csproj.GenerateResource.cache
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\Twilight Gatekeeper.csproj.CoreCompileInputs.cache
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\Twilight Gatekeeper.exe.config
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\Twilight Gatekeeper.exe
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\Twilight Gatekeeper.pdb
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\EntityFramework.dll
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\EntityFramework.SqlServer.dll
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\System.Data.SQLite.dll
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\System.Data.SQLite.EF6.dll
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\System.Data.SQLite.Linq.dll
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\EntityFramework.xml
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\EntityFramework.SqlServer.xml
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\bin\Debug\System.Data.SQLite.xml
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\Twilight.04B7240F.Up2Date
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\Twilight Gatekeeper.exe
+L:\Programming_Source\Twilight_Routine_Automation_Scripts\Twilight Gatekeeper\Twilight Gatekeeper\obj\Debug\Twilight Gatekeeper.pdb
